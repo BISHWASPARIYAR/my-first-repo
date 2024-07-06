@@ -1,4 +1,6 @@
+
 int main ()
 {
 printf("Ore wa luffy");
+printf("Kaizoku ni ore wa naru");
 }
