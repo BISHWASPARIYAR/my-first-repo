@@ -1,0 +1,4 @@
+int main ()
+{
+printf("Ore wa luffy");
+}
